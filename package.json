@@ -1,6 +1,6 @@
 {
   "name": "strapi-plugin-redirects-v2",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "This plugin allows a user to manage redirects from the admin panel.",
   "strapi": {
     "name": "redirects",
