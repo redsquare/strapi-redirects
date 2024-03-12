@@ -1,6 +1,6 @@
 {
   "name": "strapi-plugin-redirects-v2",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "This plugin allows a user to manage redirects from the admin panel.",
   "strapi": {
     "name": "redirects",
@@ -26,7 +26,7 @@
     "@strapi/strapi": "^4.15.5",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-router-dom": "^6.22.0",
+    "react-router-dom": "^5.3.4",
     "styled-components": "5.3.3"
   },
   "author": {
