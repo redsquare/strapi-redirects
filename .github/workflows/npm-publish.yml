@@ -1,6 +1,6 @@
 name: Node.js Package with Yarn
 
-on: push
+on: [push, workflow_dispatch]
 
 jobs:
   build-and-publish:
